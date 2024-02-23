@@ -9,10 +9,12 @@ This project was completed in Spring 2023 as a final group project for the HCI c
 
 ![summary_model](https://github.com/Su-Jung-Choi/exam_proctoring_system/assets/88897881/9d9e45f1-eef8-423f-b39b-39f953ba5340)
 
-Summary of the model
+Fig 1. Summary of the model
 
 ![training_result](https://github.com/Su-Jung-Choi/exam_proctoring_system/assets/88897881/c4064501-f1b8-4b42-b87c-90199d90bbb0)
-Accuracy result by testing the trained model
+
+Fig 2. Accuracy result by testing the trained model
 
 ![image](https://github.com/Su-Jung-Choi/exam_proctoring_system/assets/88897881/1bc5c28a-db31-422e-b600-0cee30444164)
-Collected record based on model prediction
+
+Fig 3. Collected record based on model prediction
